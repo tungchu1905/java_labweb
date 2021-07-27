@@ -1,0 +1,34 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 24, 2021, 4:12:55 PM
+    Author     : chutr
+*/
+table tr td{
+    padding-right: 100px;
+}
+.sub{
+    width: 50px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: dodgerblue
+}
+form input{
+    width: 250px;
+    height: 25px;
+    margin: 5px 0;
+}
+form select{
+    width: 258px;
+    height: 25px;
+    margin: 5px 0;
+}
+.checked{
+    background-color: whitesmoke;
+    border-right: 3px solid whitesmoke;
+}
+
+
